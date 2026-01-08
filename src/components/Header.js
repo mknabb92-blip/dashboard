@@ -5,6 +5,7 @@ const Header = () => {
     return (
         <header className="header">
             <h1>Welcome back 👋 Jaydon Frankie</h1>
+            <h1>asdf</h1>
             <p>If you are going to use a passage of Lore Ipsum...</p>
             <button className="go-button">Go now</button>
         </header>
