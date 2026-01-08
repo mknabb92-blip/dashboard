@@ -14,6 +14,7 @@ const StatsCard = () => {
         <div className="stats-card">
             <div>
                 <h3>Total active users</h3>
+                <h1>world</h1>
                 <p>18,765</p>
                 <p className="increase">+2.6% last 7 days</p>
             </div>
